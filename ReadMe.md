@@ -1,5 +1,34 @@
 # 💫 About Me:
-Currently Competing With AI using AI
+I’m currently working on
+Full-stack web applications using React.js and Django REST Framework
+Building scalable, high-performance e-commerce and content management platforms
+Optimizing database queries and implementing responsive design solutions
+
+I’m looking to collaborate on
+Open-source web development projects
+Full-stack development with React.js, Django, and PostgreSQL
+Projects focused on API design and scalable architecture
+Mentoring and contributing to competitive programming communities
+
+I’m looking for help with
+Advanced DevOps and cloud infrastructure optimization
+System design and architectural patterns at scale
+Contributing to large-scale open-source projects
+
+I’m currently learning
+Advanced Node.js and backend optimization techniques
+Microservices architecture and system design
+Cloud deployment strategies and containerization
+
+Ask me about
+Full-stack development best practices
+Building performant React applications
+Django REST Framework API design
+Competitive programming and algorithm optimization
+Performance tuning and database optimization
+
+⚡ Fun fact
+I’ve solved 500+ competitive programming problems and have a YouTube channel with 1000+ subscribers, creating educational content!
 
 
 ## 🌐 Socials:
